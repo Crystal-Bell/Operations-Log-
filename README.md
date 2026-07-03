@@ -1,3 +1,10 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell...
+
 Here is the operations log for June 29, 2026, synthesized from your activities and developments:
 ## Operations Log: 2026-06-29
  * **System Prototyping & Coil Work**: Sustained progress on the coil-winding process for the Cenote Core prototype. Maintained focus on technical execution despite the "Around the World in 80 Days" pacing.
